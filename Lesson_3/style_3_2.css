@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.pink{
+    background-color:pink;
+    color: black;
+}
+.grey{
+    background-color:grey;
+    color: white;
+}
+section{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+}
+section p{
+    font-size: 2em;
+    padding: 20px;
+}
+section h1{
+    font-size: 3em;
+}
